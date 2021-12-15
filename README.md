@@ -30,7 +30,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS framework
+- [Svelte](https://svelte.dev/) - JS framework
 
 ## Author
 
